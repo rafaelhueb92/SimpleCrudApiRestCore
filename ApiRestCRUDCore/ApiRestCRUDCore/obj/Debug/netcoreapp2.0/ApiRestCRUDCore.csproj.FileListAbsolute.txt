@@ -1,0 +1,11 @@
+C:\Users\Rafael\Desktop\ProjetosBit\ApiRestCRUDCore\ApiRestCRUDCore\ApiRestCRUDCore\bin\Debug\netcoreapp2.0\ApiRestCRUDCore.deps.json
+C:\Users\Rafael\Desktop\ProjetosBit\ApiRestCRUDCore\ApiRestCRUDCore\ApiRestCRUDCore\bin\Debug\netcoreapp2.0\ApiRestCRUDCore.runtimeconfig.json
+C:\Users\Rafael\Desktop\ProjetosBit\ApiRestCRUDCore\ApiRestCRUDCore\ApiRestCRUDCore\bin\Debug\netcoreapp2.0\ApiRestCRUDCore.runtimeconfig.dev.json
+C:\Users\Rafael\Desktop\ProjetosBit\ApiRestCRUDCore\ApiRestCRUDCore\ApiRestCRUDCore\bin\Debug\netcoreapp2.0\ApiRestCRUDCore.dll
+C:\Users\Rafael\Desktop\ProjetosBit\ApiRestCRUDCore\ApiRestCRUDCore\ApiRestCRUDCore\bin\Debug\netcoreapp2.0\ApiRestCRUDCore.pdb
+C:\Users\Rafael\Desktop\ProjetosBit\ApiRestCRUDCore\ApiRestCRUDCore\ApiRestCRUDCore\obj\Debug\netcoreapp2.0\ApiRestCRUDCore.csprojAssemblyReference.cache
+C:\Users\Rafael\Desktop\ProjetosBit\ApiRestCRUDCore\ApiRestCRUDCore\ApiRestCRUDCore\obj\Debug\netcoreapp2.0\ApiRestCRUDCore.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\ProjetosBit\ApiRestCRUDCore\ApiRestCRUDCore\ApiRestCRUDCore\obj\Debug\netcoreapp2.0\ApiRestCRUDCore.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\ProjetosBit\ApiRestCRUDCore\ApiRestCRUDCore\ApiRestCRUDCore\obj\Debug\netcoreapp2.0\ApiRestCRUDCore.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\ProjetosBit\ApiRestCRUDCore\ApiRestCRUDCore\ApiRestCRUDCore\obj\Debug\netcoreapp2.0\ApiRestCRUDCore.dll
+C:\Users\Rafael\Desktop\ProjetosBit\ApiRestCRUDCore\ApiRestCRUDCore\ApiRestCRUDCore\obj\Debug\netcoreapp2.0\ApiRestCRUDCore.pdb
