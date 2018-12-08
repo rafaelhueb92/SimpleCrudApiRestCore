@@ -1,9 +1,11 @@
-﻿using ApiRestCRUDCore.Data.EF;
+﻿using ApiRestCRUDCore.Data.Dapper.Repositories;
+using ApiRestCRUDCore.Data.EF;
 using ApiRestCRUDCore.Data.EF.Repositories;
 using ApiRestCRUDCore.Domain.Contracts;
 using Components.Sign;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -41,6 +43,8 @@ namespace ApiRestCRUDCore
 
             new SigningConfigurations().ConfigurarAutenticacao(services, Configuration);
 
+            services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -64,7 +68,9 @@ namespace ApiRestCRUDCore
         public void Injection(IServiceCollection services)
         {
 
-              services.AddScoped(typeof(IUserRepository), typeof(UserRepository));
+            services.AddScoped(typeof(IUserRepository), typeof(UserRepository));
+
+            services.AddTransient<IEmployeeRepository, EmployeeRepository>();
 
         }
 

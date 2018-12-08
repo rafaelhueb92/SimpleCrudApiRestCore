@@ -1,0 +1,16 @@
+C:\Users\Rafael\Desktop\ProjetosBit\ApiRestCRUDCore\ApiRestCRUDCore\ApiRestCRUDCore.Data\bin\Debug\netcoreapp2.1\ApiRestCRUDCore.Data.deps.json
+C:\Users\Rafael\Desktop\ProjetosBit\ApiRestCRUDCore\ApiRestCRUDCore\ApiRestCRUDCore.Data\bin\Debug\netcoreapp2.1\ApiRestCRUDCore.Data.runtimeconfig.json
+C:\Users\Rafael\Desktop\ProjetosBit\ApiRestCRUDCore\ApiRestCRUDCore\ApiRestCRUDCore.Data\bin\Debug\netcoreapp2.1\ApiRestCRUDCore.Data.runtimeconfig.dev.json
+C:\Users\Rafael\Desktop\ProjetosBit\ApiRestCRUDCore\ApiRestCRUDCore\ApiRestCRUDCore.Data\bin\Debug\netcoreapp2.1\ApiRestCRUDCore.Data.dll
+C:\Users\Rafael\Desktop\ProjetosBit\ApiRestCRUDCore\ApiRestCRUDCore\ApiRestCRUDCore.Data\bin\Debug\netcoreapp2.1\ApiRestCRUDCore.Data.pdb
+C:\Users\Rafael\Desktop\ProjetosBit\ApiRestCRUDCore\ApiRestCRUDCore\ApiRestCRUDCore.Data\bin\Debug\netcoreapp2.1\ApiRestCRUDCore.Domain.dll
+C:\Users\Rafael\Desktop\ProjetosBit\ApiRestCRUDCore\ApiRestCRUDCore\ApiRestCRUDCore.Data\bin\Debug\netcoreapp2.1\Components.dll
+C:\Users\Rafael\Desktop\ProjetosBit\ApiRestCRUDCore\ApiRestCRUDCore\ApiRestCRUDCore.Data\bin\Debug\netcoreapp2.1\ApiRestCRUDCore.Domain.pdb
+C:\Users\Rafael\Desktop\ProjetosBit\ApiRestCRUDCore\ApiRestCRUDCore\ApiRestCRUDCore.Data\bin\Debug\netcoreapp2.1\Components.pdb
+C:\Users\Rafael\Desktop\ProjetosBit\ApiRestCRUDCore\ApiRestCRUDCore\ApiRestCRUDCore.Data\obj\Debug\netcoreapp2.1\ApiRestCRUDCore.Data.csprojAssemblyReference.cache
+C:\Users\Rafael\Desktop\ProjetosBit\ApiRestCRUDCore\ApiRestCRUDCore\ApiRestCRUDCore.Data\obj\Debug\netcoreapp2.1\ApiRestCRUDCore.Data.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\ProjetosBit\ApiRestCRUDCore\ApiRestCRUDCore\ApiRestCRUDCore.Data\obj\Debug\netcoreapp2.1\ApiRestCRUDCore.Data.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\ProjetosBit\ApiRestCRUDCore\ApiRestCRUDCore\ApiRestCRUDCore.Data\obj\Debug\netcoreapp2.1\ApiRestCRUDCore.Data.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\ProjetosBit\ApiRestCRUDCore\ApiRestCRUDCore\ApiRestCRUDCore.Data\obj\Debug\netcoreapp2.1\ApiRestCRUDCore.Data.csproj.CopyComplete
+C:\Users\Rafael\Desktop\ProjetosBit\ApiRestCRUDCore\ApiRestCRUDCore\ApiRestCRUDCore.Data\obj\Debug\netcoreapp2.1\ApiRestCRUDCore.Data.dll
+C:\Users\Rafael\Desktop\ProjetosBit\ApiRestCRUDCore\ApiRestCRUDCore\ApiRestCRUDCore.Data\obj\Debug\netcoreapp2.1\ApiRestCRUDCore.Data.pdb

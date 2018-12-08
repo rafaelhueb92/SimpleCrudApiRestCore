@@ -1,0 +1,14 @@
+C:\Users\Rafael\Desktop\ProjetosBit\ApiRestCRUDCore\ApiRestCRUDCore\ApiRestCRUDCore.Domain\bin\Debug\netcoreapp2.1\ApiRestCRUDCore.Domain.deps.json
+C:\Users\Rafael\Desktop\ProjetosBit\ApiRestCRUDCore\ApiRestCRUDCore\ApiRestCRUDCore.Domain\bin\Debug\netcoreapp2.1\ApiRestCRUDCore.Domain.runtimeconfig.json
+C:\Users\Rafael\Desktop\ProjetosBit\ApiRestCRUDCore\ApiRestCRUDCore\ApiRestCRUDCore.Domain\bin\Debug\netcoreapp2.1\ApiRestCRUDCore.Domain.runtimeconfig.dev.json
+C:\Users\Rafael\Desktop\ProjetosBit\ApiRestCRUDCore\ApiRestCRUDCore\ApiRestCRUDCore.Domain\bin\Debug\netcoreapp2.1\ApiRestCRUDCore.Domain.dll
+C:\Users\Rafael\Desktop\ProjetosBit\ApiRestCRUDCore\ApiRestCRUDCore\ApiRestCRUDCore.Domain\bin\Debug\netcoreapp2.1\ApiRestCRUDCore.Domain.pdb
+C:\Users\Rafael\Desktop\ProjetosBit\ApiRestCRUDCore\ApiRestCRUDCore\ApiRestCRUDCore.Domain\bin\Debug\netcoreapp2.1\Components.dll
+C:\Users\Rafael\Desktop\ProjetosBit\ApiRestCRUDCore\ApiRestCRUDCore\ApiRestCRUDCore.Domain\bin\Debug\netcoreapp2.1\Components.pdb
+C:\Users\Rafael\Desktop\ProjetosBit\ApiRestCRUDCore\ApiRestCRUDCore\ApiRestCRUDCore.Domain\obj\Debug\netcoreapp2.1\ApiRestCRUDCore.Domain.csprojAssemblyReference.cache
+C:\Users\Rafael\Desktop\ProjetosBit\ApiRestCRUDCore\ApiRestCRUDCore\ApiRestCRUDCore.Domain\obj\Debug\netcoreapp2.1\ApiRestCRUDCore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\ProjetosBit\ApiRestCRUDCore\ApiRestCRUDCore\ApiRestCRUDCore.Domain\obj\Debug\netcoreapp2.1\ApiRestCRUDCore.Domain.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\ProjetosBit\ApiRestCRUDCore\ApiRestCRUDCore\ApiRestCRUDCore.Domain\obj\Debug\netcoreapp2.1\ApiRestCRUDCore.Domain.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\ProjetosBit\ApiRestCRUDCore\ApiRestCRUDCore\ApiRestCRUDCore.Domain\obj\Debug\netcoreapp2.1\ApiRestCRUDCore.Domain.csproj.CopyComplete
+C:\Users\Rafael\Desktop\ProjetosBit\ApiRestCRUDCore\ApiRestCRUDCore\ApiRestCRUDCore.Domain\obj\Debug\netcoreapp2.1\ApiRestCRUDCore.Domain.dll
+C:\Users\Rafael\Desktop\ProjetosBit\ApiRestCRUDCore\ApiRestCRUDCore\ApiRestCRUDCore.Domain\obj\Debug\netcoreapp2.1\ApiRestCRUDCore.Domain.pdb
