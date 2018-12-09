@@ -15,6 +15,12 @@ namespace ApiRestCRUDCore.Domain.Contracts
 
         Task<List<eEmployee>> GetByDateOfBirth(DateTime dateOfBirth);
 
+        Task<eEmployee> Add(eEmployee employee);
+
+        Task<eEmployee> Update(eEmployee employee);
+
+        void Delete(int id);
+
     }
 
 }

@@ -66,6 +66,69 @@ namespace ApiRestCRUDCore.Data.Dapper.Repositories
 
         }
 
+        public async Task<eEmployee> Add(eEmployee employee)
+        {
+
+            using (IDbConnection conn = Connection)
+            {
+                string sQuery = @"INSERT INTO Employee VALUES (@Id,@FirstName,@LastName,@DateOfBirth,@Login,@Password);";
+                conn.Open();
+                var result = await conn.QueryAsync<eEmployee>(sQuery, 
+                              new {
+                                    Id = employee.Id,
+                                    FirstName = employee.FirstName,
+                                    LastName = employee.LastName,
+                                    DateOfBirth = employee.DateOfBirth,
+                                    Login = employee.Login,
+                                    Password = employee.Password
+                                   });
+                return employee;
+            }
+
+        }
+
+        public async Task<eEmployee> Update(eEmployee employee)
+        {
+            using (IDbConnection conn = Connection)
+            {
+                string sQuery = @"UPDATE Employee
+                                     SET FirstName = @FirstName,
+	                                     LastName = @LastName,
+	                                     DateOfBirth = @DateOfBirth,
+                                      	 Login = @Login,
+	                                     Password = @Password
+                                         WHERE Id = @Id;";
+                conn.Open();
+                var result = await conn.QueryAsync<eEmployee>(sQuery,
+                              new
+                              {
+                                  Id = employee.Id,
+                                  FirstName = employee.FirstName,
+                                  LastName = employee.LastName,
+                                  DateOfBirth = employee.DateOfBirth,
+                                  Login = employee.Login,
+                                  Password = employee.Password
+                              });
+                return employee;
+            }
+        }
+
+        public void Delete(int id)
+        {
+            
+            using (IDbConnection conn = Connection)
+            {
+                string sQuery = @"DELETE FROM Employee
+                                        WHERE Id = @Id;";
+                conn.Open();
+                var result = conn.QueryAsync<eEmployee>(sQuery,
+                              new
+                              {
+                                  Id = id
+                              });
+
+            }
+        }
     }
 
 }

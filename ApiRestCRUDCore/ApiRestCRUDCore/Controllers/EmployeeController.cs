@@ -42,6 +42,27 @@ namespace ApiRestCRUDCore.Controllers
             return await _employeeRepo.GetByDateOfBirth(dateOfBirth);
         }
 
+        [HttpPost]
+        public async Task<ActionResult<eEmployee>> Add([FromBody] eEmployee employee)
+        {
+            return await _employeeRepo.Add(employee);
+        }
+
+        [HttpPut]
+        public async Task<ActionResult<eEmployee>> Update([FromBody] eEmployee employee)
+        {
+            return await _employeeRepo.Update(employee);
+        }
+
+
+        [HttpDelete]
+        [Route("{id}")]
+        public IActionResult Delete(int id)
+        {
+            _employeeRepo.Delete(id);
+            return Ok();
+        }
+
     }
 
 }
